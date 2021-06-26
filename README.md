@@ -18,9 +18,10 @@
 <br />
 <br />
 
+- I am a **poor programming skills (A waste 🌍).**
 - 🌱 I'm currently learning **Web development and English**.
 - 🤔 My hobbies are **reading book  and running**.
-- 💼 I am an **obsessive-compulsive disorder**.
+- 💬 If you have any questions, **just ask me**.
 - 📫 Please contact me via email:
 - Or Gmail: goldenwang0425@gmail.com.
 
